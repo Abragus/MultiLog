@@ -1,0 +1,24 @@
+{
+  "name": "MultiLog",
+  "version": "1.0.0",
+  "description": "MultiLog allows using both ayushsharma82's WebSerial and ESP standard serial logging at the same time.",
+  "keywords": "webserial, logging",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Abragus/MultiLog.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Gustav Abrahamsson",
+      "email": "gustav.a.abrahamsson@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "dependencies": {
+    "ayushsharma82/WebSerial": "^1.3.0"
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif"
+}
