@@ -115,3 +115,5 @@ void MultiLogger::println(double m){
     if (WebSerialEnabled)
         WebSerial.println(String(m) + "\n");
 }
+
+MultiLogger MultiLog;

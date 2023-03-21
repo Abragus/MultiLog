@@ -55,4 +55,6 @@ private:
     bool WebSerialEnabled = false;
 };
 
+extern MultiLogger MultiLog;
+
 #endif
