@@ -1,6 +1,6 @@
 {
   "name": "MultiLog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MultiLog allows using both ayushsharma82's WebSerial and ESP standard serial logging at the same time.",
   "keywords": "webserial, logging",
   "repository":
